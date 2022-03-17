@@ -1,0 +1,10 @@
+{
+  "name": "drupal-membership/membership_provider_apple",
+  "type": "drupal-module",
+  "description": "Membership Provider for the App Store/iTunes",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/drupal-membership/membership_provider_apple",
+  "minimum-stability": "dev",
+  "require": { }
+}
