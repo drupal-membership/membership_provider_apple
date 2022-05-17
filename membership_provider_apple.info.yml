@@ -1,0 +1,7 @@
+name: App Store/iTunes Membership Provider
+type: module
+description: App Store/iTunes Membership Provider
+core_version_requirement: ^9
+package: Membership
+dependencies:
+  - membership:membership
