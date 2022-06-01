@@ -7,6 +7,6 @@
   "homepage": "https://github.com/drupal-membership/membership_provider_apple",
   "minimum-stability": "dev",
   "require": {
-      "meet-kinksters/apple-app-store-transactions": "^0.1"
+      "meet-kinksters/apple-app-store-transactions": "~0.1"
   }
 }
