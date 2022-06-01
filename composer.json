@@ -6,5 +6,7 @@
   "license": "GPL-2.0+",
   "homepage": "https://github.com/drupal-membership/membership_provider_apple",
   "minimum-stability": "dev",
-  "require": { }
+  "require": {
+      "meet-kinksters/apple-app-store-transactions": "^0.1"
+  }
 }
