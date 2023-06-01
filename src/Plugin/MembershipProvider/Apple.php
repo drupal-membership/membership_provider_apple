@@ -32,25 +32,4 @@ final class Apple extends MembershipProviderBase {
     return 'membership_apple';
   }
 
-  /**
-   * {@inheritDoc}
-   */
-  public function buildConfigurationForm(array $form, FormStateInterface $form_state) {
-    return $form;
-  }
-
-  /**
-   * {@inheritDoc}
-   */
-  public function validateConfigurationForm(array &$form, FormStateInterface $form_state) {
-    // TODO: Implement validateConfigurationForm() method.
-  }
-
-  /**
-   * {@inheritDoc}
-   */
-  public function submitConfigurationForm(array &$form, FormStateInterface $form_state) {
-    // TODO: Implement submitConfigurationForm() method.
-  }
-
 }
